@@ -4,7 +4,7 @@ require "rpm/repodata/parser/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "rpm-repodata-parser"
-  spec.version       = Rpm::Repodata::Parser::VERSION
+  spec.version       = RPM::Repodata::Parser::VERSION
   spec.authors       = ["Kentaro Hayashi"]
   spec.email         = ["kenhys@gmail.com"]
 
