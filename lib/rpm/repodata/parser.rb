@@ -1,6 +1,6 @@
 require "rpm/repodata/parser/version"
 
-module Rpm
+module RPM
   module Repodata
     module Parser
       class Error < StandardError; end
